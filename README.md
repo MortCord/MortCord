@@ -6,6 +6,6 @@ My main programming languages are Java and JavaScript. I work with Spring Boot a
 
 I develop using Intelliji IDEA and JavaScript, and I use Insomnia for API testing. For DB I use MySQL.
 
-You can contact me via email: supg98@gmail.com or using my social media linked in my profile.
+You can contact me via email: supg98@gmail.com, discord: 'mortcord' or using my social media linked in my profile.
 
 In my free time, I enjoy making music and gaming, but I also use it to improve my developing skills and work on personal projects.
