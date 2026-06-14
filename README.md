@@ -1,6 +1,6 @@
 Greetings, name's Volodymyr.
 
-I am a 4th year student at Vinnitsa Technical College (soon to graduate) and a 2nd year student at Vistula University. Currently, i'm working on my full-stack web app diploma project for college.
+I graduated from Vinnitsia Technical Project and am currently third-year student at Vistula University. Currently, i'm improving my Java skills by taking the EPAM course.
 
 My main programming languages are Java and JavaScript. I work with Spring Boot and React to build web apps.
 
