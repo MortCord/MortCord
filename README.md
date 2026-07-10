@@ -4,7 +4,7 @@ I graduated from Vinnitsia Technical Project and am currently third-year student
 
 My main programming languages are Java and JavaScript. I work with Spring Boot and React to build web apps.
 
-I develop using IntelliJ IDEA and JavaScript, and I use Insomnia for API testing. For DB I use MySQL.
+I develop using IntelliJ IDEA and VS Code, and I use Insomnia for API testing. For DB I use MySQL.
 
 You can contact me via email: supg98@gmail.com, discord: 'mortcord' or using my linkedin linked in my profile.
 
