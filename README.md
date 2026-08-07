@@ -1,6 +1,6 @@
 Greetings, name's Volodymyr.
 
-I graduated from Vinnitsia Technical Project and am currently third-year student at Vistula University. Currently, i'm improving my Java skills by taking the EPAM course.
+I graduated from Vinnitsia Technical Project and am currently third-year student at Vistula University.
 
 My main programming languages are Java and JavaScript. I work with Spring Boot and React to build web apps.
 
